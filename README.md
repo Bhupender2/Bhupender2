@@ -43,4 +43,4 @@
 
 
 
-:page_with_curl: I'm currently as a Front End Dev in YaMarkets:
+:page_with_curl: I'm currently  working as a Front End Dev in YaMarkets:
