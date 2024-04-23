@@ -21,6 +21,16 @@
 
 - ⚡ Fun fact **I can cook and I am Funny :)**
 
+- ---
+
+### Recent Projects
+
+- **Group Chat App**: Real-time chat application using React, Socket.io, and Express.js. [Check it out](https://chat-app-five-teal.vercel.app/) 💬
+
+- **Workout Timer**: Simple workout timer built with React for tracking exercise intervals. [Explore project](https://workout-timer-xi.vercel.app/) ⏱️
+
+- **Movie App**: Responsive movie application developed with React for exploring movie details. [Visit project](https://bhupender-singh.netlify.app/) 🎬
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/https://codepen.io/bhupender2/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/bhupender2/" height="30" width="40" /></a>
