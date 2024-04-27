@@ -29,7 +29,9 @@
 
 - **Workout Timer**: Simple workout timer built with React for tracking exercise intervals. [Explore project](https://workout-timer-xi.vercel.app/) ⏱️
 
-- **Movie App**: Responsive movie application developed with React for exploring movie details. [Visit project](https://bhupender-singh.netlify.app/) 🎬
+- *SpeechTXT**: Responsive Speech to text  converter application developed with React and React speech recognition library. [Visit project](https://speech-txt-neon.vercel.app/) 🚀*
+
+- *Movie App**: Responsive movie application developed with React for exploring movie details. [Visit project](https://bhupender-singh.netlify.app/) 🎬*
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
