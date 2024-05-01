@@ -31,7 +31,7 @@
 
 - **SpeechTXT**: Responsive Speech to text  converter application developed with React and React speech recognition library. [Visit project](https://speech-txt-neon.vercel.app/) 🚀*
 
-- **Movie App**: Responsive movie application developed with React for exploring movie details. [Visit project](https://bhupender-singh.netlify.app/) 🎬*
+- **CornFlix**: Responsive movie application developed with React for exploring movie details and rate and keeping track of them. [Visit project](https://corn-flix.vercel.app/) 🎬*
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
