@@ -25,6 +25,8 @@
 
 ### Recent Projects
 
+- **Abhivyakti Cinema** 🎬: A ReactJS-based project to search, sort, and watch trailers for movies and TV shows! Check it out at [Check it out](https://abhivyakti-cinema.vercel.app/)🍿
+
 - **Group Chat App**: Real-time chat application using React, Socket.io, and Express.js (might render slow because it is hosted on a free platform) [Check it out](https://chat-app-five-teal.vercel.app/) 💬
 
 - **Workout Timer**: Simple workout timer built with React for tracking exercise intervals. [Explore project](https://workout-timer-xi.vercel.app/) ⏱️
