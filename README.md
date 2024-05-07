@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhupender2&label=Profile%20views&color=0e75b6&style=flat" alt="bhupender2" /> </p>
 
-- 🔭 I’m currently working on **Movie App**
+- 🔭 I’m currently working on **video streaming website**
 
 - 🌱 I’m currently learning **Nextjs, ReactNative**
 
