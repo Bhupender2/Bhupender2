@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhupender2&label=Profile%20views&color=0e75b6&style=flat" alt="bhupender2" /> </p>
 
--💻 I have two years of experience in **web development**
+- 💻 I have two years of experience in **web development**
 
 - 🔭 I’m currently working on **video streaming website**
 
