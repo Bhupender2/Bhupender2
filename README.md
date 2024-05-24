@@ -31,7 +31,7 @@
 
 - **WorldWise App** 🌍: Reactjs travel app designed to record and manage your global adventures, leveraging a modern tech stack to ensure a seamless and intuitive user experience.) [Check it out](https://world-wise-teal-seven.vercel.app/) 🌍
 
-- - **Group Chat App**: Real-time chat application using React, Socket.io, and Express.js (might render slow because it is hosted on a free platform) [Check it out](https://chat-app-five-teal.vercel.app/) 💬
+- **Group Chat App**: Real-time chat application using React, Socket.io, and Express.js (might render slow because it is hosted on a free platform) [Check it out](https://chat-app-five-teal.vercel.app/) 💬
 
 - **Workout Timer**: Simple workout timer built with React for tracking exercise intervals. [Explore project](https://workout-timer-xi.vercel.app/) ⏱️
 
