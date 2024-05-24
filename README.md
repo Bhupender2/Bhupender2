@@ -29,13 +29,15 @@
 
 - **Abhivyakti Cinema** 🎬: A ReactJS-based project to search, sort, and watch trailers for movies and TV shows! Check it out at [Check it out](https://abhivyakti-cinema.vercel.app/)🍿
 
-- **Group Chat App**: Real-time chat application using React, Socket.io, and Express.js (might render slow because it is hosted on a free platform) [Check it out](https://chat-app-five-teal.vercel.app/) 💬
+- **WorldWise App** 🌍: Reactjs travel app designed to record and manage your global adventures, leveraging a modern tech stack to ensure a seamless and intuitive user experience.) [Check it out](https://world-wise-teal-seven.vercel.app/) 🌍
+
+- - **Group Chat App**: Real-time chat application using React, Socket.io, and Express.js (might render slow because it is hosted on a free platform) [Check it out](https://chat-app-five-teal.vercel.app/) 💬
 
 - **Workout Timer**: Simple workout timer built with React for tracking exercise intervals. [Explore project](https://workout-timer-xi.vercel.app/) ⏱️
 
-- **SpeechTXT**: Responsive Speech to text  converter application developed with React and React speech recognition library. [Visit project](https://speech-txt-neon.vercel.app/) 🚀*
+- **SpeechTXT**: Responsive Speech to text  converter application developed with React and React speech recognition library. [Visit project](https://speech-txt-neon.vercel.app/) 🚀
 
-- **CornFlix**: Responsive movie application developed with React for exploring movie details and rate and keeping track of them. [Visit project](https://corn-flix.vercel.app/) 🎬*
+- **CornFlix**: Responsive movie application developed with React for exploring movie details and rate and keeping track of them. [Visit project](https://corn-flix.vercel.app/) 🎬
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
