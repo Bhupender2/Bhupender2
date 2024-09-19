@@ -59,8 +59,6 @@
 
 ## 🚀 Featured Projects
 
-## 🚀 Featured Projects
-
 ### 🎬 Abhivyakti Cinema
 - A ReactJS-based project to search, sort, and watch trailers for movies and TV shows!
 - [Check it out](https://abhivyakti-cinema.vercel.app/)
