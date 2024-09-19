@@ -121,7 +121,11 @@ Feel free to check out these projects and let me know what you think! Always ope
   <a href="https://stackoverflow.com/users/20897994/bhupender-singh-mehta" target="_blank">
     <img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="Stack Overflow">
   </a>
+  <a href="https://x.com/Bhupender_Codes" target="_blank">
+    <img src="https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
+  </a>
 </p>
+
 
 <p align="center">
   📧 Email me at: <a href="mailto:b.mehtaa2021@gmail.com">b.mehtaa2021@gmail.com</a>
