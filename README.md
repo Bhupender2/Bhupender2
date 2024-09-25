@@ -31,18 +31,6 @@
 - 📫 Reach me at **b.mehtaa2021@gmail.com**
 - ⚡ Fun fact: **I can cook and I'm quite funny! 😄**
 
-## 💼 Portfolio Highlights
-
-<p align="center">
-  <a href="https://bhupender-singh.netlify.app/" target="_blank">
-    <img src="https://via.placeholder.com/800x400?text=My+Portfolio+Website" alt="Portfolio Website" width="800"/>
-  </a>
-</p>
-
-<p align="center">
-  🌟 Explore my complete portfolio for an in-depth look at my projects and skills!
-</p>
-
 ## 🛠️ Tech Stack
 
 <p align="center">
