@@ -80,10 +80,6 @@
 - Explore movie details, rate films, and keep track of your favorites
 - [Discover movies](https://corn-flix.vercel.app/)
 
-<p align="center">
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" alt="Coding" width="500">
-</p>
-
 Feel free to check out these projects and let me know what you think! Always open to feedback and collaboration.
 
 ## 📊 GitHub Stats
