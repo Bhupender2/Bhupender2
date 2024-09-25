@@ -1,12 +1,12 @@
 [![MasterHead](https://camo.githubusercontent.com/4c3fd71b359cd5dfadc21247cde8f16ecbe5d41db8ac79ef28e3091ab02a8bef/68747470733a2f2f6d69722d73332d63646e2d63662e626568616e63652e6e65742f70726f6a6563745f6d6f64756c65732f6d61785f313230302f3831626234623136353638343031392e363430623630333864313333652e676966)](https://bhupender-singh.netlify.app/)
 
-<h1 align="center">Hi 👋, I'm Bhupender Singh Mehta 🧑‍💻</h1>
+# Hi 👋, I'm Bhupender Singh Mehta 🧑‍💻
 
-<h3 align="center">
+<div align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Passionate+Full+Stack+Developer;2%2B+Years+of+Web+Development+Experience;Always+learning+new+technologies" alt="Typing SVG" />
   </a>
-</h3>
+</div>
 
 <p align="center">
   <a href="https://bhupender-singh.netlify.app/" target="_blank">
@@ -14,13 +14,11 @@
   </a>
 </p>
 
-<img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:828/format:webp/1*zVnWJtyGOX_kUIDm6ccCfQ.gif">
+ ## 🚀 About Me
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=bhupender2&label=Profile%20views&color=0e75b6&style=flat" alt="bhupender2" />
-</p>
-
-## 🚀 About Me
+<table>
+  <tr>
+    <td valign="top" width="50%">
 
 - 💻 2+ years of experience in **web development**
 - 🔭 Currently working on a **video streaming website**
@@ -28,8 +26,15 @@
 - 👯 Looking to collaborate on **Full Stack Projects**
 - 👨‍💻 Check out my portfolio: [https://bhupender-singh.netlify.app/](https://bhupender-singh.netlify.app/)
 - 💬 Ask me about **ReactJS, JavaScript, Web Sockets, Tailwind CSS**
-- 📫 Reach me at **b.mehtaa2021@gmail.com**
+- 📫 Reach me at [b.mehtaa2021@gmail.com](mailto:b.mehtaa2021@gmail.com)
 - ⚡ Fun fact: **I can cook and I'm quite funny! 😄**
+
+    </td>
+    <td valign="top" width="50%">
+      <img src="https://miro.medium.com/v2/resize:fit:828/format:webp/1*zVnWJtyGOX_kUIDm6ccCfQ.gif" alt="Coding" width="100%">
+    </td>
+  </tr>
+</table>
 
 ## 🛠️ Tech Stack
 
@@ -111,7 +116,6 @@ Feel free to check out these projects and let me know what you think! Always ope
     <img src="https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
   </a>
 </p>
-
 
 <p align="center">
   📧 Email me at: <a href="mailto:b.mehtaa2021@gmail.com">b.mehtaa2021@gmail.com</a>
