@@ -1,10 +1,10 @@
 [![MasterHead](https://camo.githubusercontent.com/4c3fd71b359cd5dfadc21247cde8f16ecbe5d41db8ac79ef28e3091ab02a8bef/68747470733a2f2f6d69722d73332d63646e2d63662e626568616e63652e6e65742f70726f6a6563745f6d6f64756c65732f6d61785f313230302f3831626234623136353638343031392e363430623630333864313333652e676966)](https://bhupender-singh.netlify.app/)
 
-# Hi 👋, I'm Bhupender Singh Mehta 🧑‍💻
+# 🚀 Hi 👋, I'm Bhupender Singh Mehta | Full Stack Developer 🧑‍💻
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Passionate+Full+Stack+Developer;2%2B+Years+of+Web+Development+Experience;Always+learning+new+technologies" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=Passionate+Full+Stack+Developer;2%2B+Years+of+Web+Development+Experience;Always+learning+new+technologies" alt="Typing SVG" />
   </a>
 </div>
 
@@ -12,9 +12,18 @@
   <a href="https://bhupender-singh.netlify.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" alt="Portfolio" />
   </a>
+  <a href="mailto:b.mehtaa2021@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://www.linkedin.com/in/bhupender-mehta-661331226" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://x.com/Bhupender_Codes" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  </a>
 </p>
 
- ## 🚀 About Me
+## 🚀 About Me
 
 <table>
   <tr>
@@ -39,48 +48,73 @@
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React">
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript">
-  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
-  <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS">
-  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
-  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
-  <img src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white" alt="Redux">
-  <img src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white" alt="SASS">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" alt="Redux" />
+  <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="SASS" />
 </p>
 
 ## 🚀 Featured Projects
 
-### 🎬 Abhivyakti Cinema
-- A ReactJS-based project to search, sort, and watch trailers for movies and TV shows!
-- [Check it out](https://abhivyakti-cinema.vercel.app/)
-
-### 🌍 WorldWise App
-- Reactjs travel app designed to record and manage your global adventures
-- Leverages a modern tech stack to ensure a seamless and intuitive user experience
-- [Explore WorldWise](https://world-wise-teal-seven.vercel.app/)
-
-### 💬 Group Chat App
-- Real-time chat application using React, Socket.io, and Express.js
-- (Note: May render slowly due to free hosting)
-- [Start chatting](https://chat-app-five-teal.vercel.app/)
-
-### ⏱️ Workout Timer
-- Simple workout timer built with React for tracking exercise intervals
-- [Time your workouts](https://workout-timer-xi.vercel.app/)
-
-### 🎙️ SpeechTXT
-- Responsive Speech to text converter application 
-- Developed with React and React speech recognition library
-- [Convert speech to text](https://speech-txt-neon.vercel.app/)
-
-### 🍿 CornFlix
-- Responsive movie application developed with React
-- Explore movie details, rate films, and keep track of your favorites
-- [Discover movies](https://corn-flix.vercel.app/)
-
-Feel free to check out these projects and let me know what you think! Always open to feedback and collaboration.
+<table>
+  <tr>
+    <td width="50%">
+      <h3 align="center">Abhivyakti Cinema</h3>
+      <p align="center">
+        <a href="https://abhivyakti-cinema.vercel.app/" target="_blank">
+          <img src="https://img.shields.io/badge/Live-00C7B7?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo" />
+        </a>
+        <a href="https://github.com/bhupender2/Abhivyakti-Cinema" target="_blank">
+          <img src="https://img.shields.io/badge/Repo-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repo" />
+        </a>
+      </p>
+      <p>A ReactJS-based project to search, sort, and watch trailers for movies and TV shows!</p>
+    </td>
+    <td width="50%">
+      <h3 align="center">WorldWise App</h3>
+      <p align="center">
+        <a href="https://world-wise-teal-seven.vercel.app/" target="_blank">
+          <img src="https://img.shields.io/badge/Live-00C7B7?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo" />
+        </a>
+        <a href="https://github.com/bhupender2/WorldWise" target="_blank">
+          <img src="https://img.shields.io/badge/Repo-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repo" />
+        </a>
+      </p>
+      <p>Reactjs travel app designed to record and manage your global adventures.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center">Group Chat App</h3>
+      <p align="center">
+        <a href="https://chat-app-five-teal.vercel.app/" target="_blank">
+          <img src="https://img.shields.io/badge/Live-00C7B7?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo" />
+        </a>
+        <a href="https://github.com/bhupender2/chat-app" target="_blank">
+          <img src="https://img.shields.io/badge/Repo-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repo" />
+        </a>
+      </p>
+      <p>Real-time chat application using React, Socket.io, and Express.js.</p>
+    </td>
+    <td width="50%">
+      <h3 align="center">CornFlix</h3>
+      <p align="center">
+        <a href="https://corn-flix.vercel.app/" target="_blank">
+          <img src="https://img.shields.io/badge/Live-00C7B7?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo" />
+        </a>
+        <a href="https://github.com/bhupender2/CornFlix" target="_blank">
+          <img src="https://img.shields.io/badge/Repo-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repo" />
+        </a>
+      </p>
+      <p>Responsive movie application developed with React. Explore movie details, rate films, and keep track of your favorites.</p>
+    </td>
+  </tr>
+</table>
 
 ## 📊 GitHub Stats
 
@@ -94,6 +128,12 @@ Feel free to check out these projects and let me know what you think! Always ope
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhupender2&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=bhupender2&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" />
 </p>
 
 ## 🤝 Let's Connect
@@ -113,12 +153,14 @@ Feel free to check out these projects and let me know what you think! Always ope
   </a>
 </p>
 
-<p align="center">
-  📧 Email me at: <a href="mailto:b.mehtaa2021@gmail.com">b.mehtaa2021@gmail.com</a>
-</p>
+---
 
 <div align="center">
-  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake">
+  <img src="https://komarev.com/ghpvc/?username=bhupender2&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+</div>
+
+<div align="center">
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
 </div>
 
 <p align="center">
