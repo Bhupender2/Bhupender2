@@ -118,7 +118,7 @@
        <td width="50%">
       <h3 align="center">React Pizzeria</h3>
       <p align="center">
-        <a href="react-pizzeria2.vercel.app/" target="_blank">
+        <a href="https://react-pizzeria2.vercel.app/" target="_blank">
           <img src="https://img.shields.io/badge/Live-00C7B7?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo" />
         </a>
         <a href="https://github.com/Bhupender2/react-pizzeria" target="_blank">
