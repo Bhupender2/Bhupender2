@@ -29,7 +29,7 @@
   <tr>
     <td valign="top" width="50%">
 
-- 💻 2+ years of experience in **web development**
+- 💻 3+ years of experience in **web development**
 - 🔭 Currently working on a **video streaming website**
 - 🌱 Learning **NextJS** and **React Native**
 - 👯 Looking to collaborate on **Full Stack Projects**
