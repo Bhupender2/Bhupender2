@@ -137,7 +137,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bhupender2&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-stats-alpha.vercel.app/api?username=bhupender2&cc=1c1c1c&tc=38BDF8&ic=fff&bc=0000&text_bold=true&padding=30" alt="Bhupender's GitHub Contribution Stats">
 </p>
 
 <p align="center">
