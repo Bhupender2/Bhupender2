@@ -1,8 +1,8 @@
-# <div align="center">
-  <img src="https://raw.githubusercontent.com/gist/patevs/b007a0e98fb216438d4cbf559fac4166/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif" width="100%" alt="Coding Animation" />
-</div>
-
 # <div align="center">![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=435&lines=Bhupender+Singh;Full+Stack+Developer)</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212749168-86d6c7ab-13a1-4d6f-9ae6-ba25e3877b85.gif" width="800" height="200" alt="Coding Animation" />
+</div>
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
