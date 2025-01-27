@@ -56,17 +56,17 @@
 <div style="background: #1A1B26; border-radius: 6px; padding: 12px 12px 20px 12px;">
 <h3 style="margin: 0;">🎬 Abhivyakti Cinema</h3>
 <div style="display: flex; gap: 8px; margin: 12px 0;">
-  <img height="28" src="https://img.shields.io/badge/REACT-61DAFB?style=flat&logo=react&logoColor=black" />
-  <img height="28" src="https://img.shields.io/badge/REDUX-764ABC?style=flat&logo=redux&logoColor=white" />
-  <img height="28" src="https://img.shields.io/badge/TMDB_API-01B4E4?style=flat&logo=themoviedatabase&logoColor=white" />
+  <img height="20" src="https://img.shields.io/badge/REACT-61DAFB?style=flat&logo=react&logoColor=black" />
+  <img height="20" src="https://img.shields.io/badge/REDUX-764ABC?style=flat&logo=redux&logoColor=white" />
+  <img height="20" src="https://img.shields.io/badge/TMDB_API-01B4E4?style=flat&logo=themoviedatabase&logoColor=white" />
 </div>
 <p style="font-size: 10px; margin: 8px 0;">Modern movie & TV platform with advanced search and trailer playback</p>
 <div style="display: flex; gap: 8px;">
   <a href="https://abhivyakti-cinema.vercel.app">
-    <img height="24" src="https://img.shields.io/badge/DEMO-FF5722?style=flat&logo=google-chrome&logoColor=white" />
+    <img height="20" src="https://img.shields.io/badge/DEMO-FF5722?style=flat&logo=google-chrome&logoColor=white" />
   </a>
   <a href="https://github.com/bhupender2/Abhivyakti-Cinema">
-    <img height="24" src="https://img.shields.io/badge/CODE-1B1F23?style=flat&logo=github&logoColor=white" />
+    <img height="20" src="https://img.shields.io/badge/CODE-1B1F23?style=flat&logo=github&logoColor=white" />
   </a>
 </div>
 </div>
@@ -75,17 +75,17 @@
 <div style="background: #1A1B26; border-radius: 6px; padding: 12px;">
 <h3 style="margin: 0;">🌍 WorldWise</h3>
 <div style="display: flex; gap: 8px; margin: 12px 0;">
-  <img height="28" src="https://img.shields.io/badge/REACT-61DAFB?style=flat&logo=react&logoColor=black" />
-  <img height="28" src="https://img.shields.io/badge/LEAFLET-199900?style=flat&logo=leaflet&logoColor=white" />
-  <img height="28" src="https://img.shields.io/badge/CONTEXT_API-593D88?style=flat" />
+  <img height="20" src="https://img.shields.io/badge/REACT-61DAFB?style=flat&logo=react&logoColor=black" />
+  <img height="20" src="https://img.shields.io/badge/LEAFLET-199900?style=flat&logo=leaflet&logoColor=white" />
+  <img height="20" src="https://img.shields.io/badge/CONTEXT_API-593D88?style=flat" />
 </div>
 <p style="font-size: 10px; margin: 8px 0;">Interactive travel companion for tracking your global adventures</p>
 <div style="display: flex; gap: 8px;">
   <a href="https://world-wise-teal-seven.vercel.app">
-    <img height="24" src="https://img.shields.io/badge/DEMO-FF5722?style=flat&logo=google-chrome&logoColor=white" />
+    <img height="20" src="https://img.shields.io/badge/DEMO-FF5722?style=flat&logo=google-chrome&logoColor=white" />
   </a>
   <a href="https://github.com/bhupender2/WorldWise">
-    <img height="24" src="https://img.shields.io/badge/CODE-1B1F23?style=flat&logo=github&logoColor=white" />
+    <img height="20" src="https://img.shields.io/badge/CODE-1B1F23?style=flat&logo=github&logoColor=white" />
   </a>
 </div>
 </div>
@@ -96,17 +96,17 @@
 <div style="background: #1A1B26; border-radius: 6px; padding: 12px;">
 <h3 style="margin: 0;">💬 Real-time Chat</h3>
 <div style="display: flex; gap: 8px; margin: 12px 0;">
-  <img height="28" src="https://img.shields.io/badge/REACT-61DAFB?style=flat&logo=react&logoColor=black" />
-  <img height="28" src="https://img.shields.io/badge/SOCKET.IO-010101?style=flat&logo=socket.io&logoColor=white" />
-  <img height="28" src="https://img.shields.io/badge/EXPRESS-000000?style=flat&logo=express&logoColor=white" />
+  <img height="20" src="https://img.shields.io/badge/REACT-61DAFB?style=flat&logo=react&logoColor=black" />
+  <img height="20" src="https://img.shields.io/badge/SOCKET.IO-010101?style=flat&logo=socket.io&logoColor=white" />
+  <img height="20" src="https://img.shields.io/badge/EXPRESS-000000?style=flat&logo=express&logoColor=white" />
 </div>
 <p style="font-size: 10px; margin: 8px 0;">Feature-rich group chat application with real-time messaging</p>
 <div style="display: flex; gap: 8px;">
   <a href="https://chat-app-five-teal.vercel.app">
-    <img height="24" src="https://img.shields.io/badge/DEMO-FF5722?style=flat&logo=google-chrome&logoColor=white" />
+    <img height="20" src="https://img.shields.io/badge/DEMO-FF5722?style=flat&logo=google-chrome&logoColor=white" />
   </a>
   <a href="https://github.com/bhupender2/chat-app">
-    <img height="24" src="https://img.shields.io/badge/CODE-1B1F23?style=flat&logo=github&logoColor=white" />
+    <img height="20" src="https://img.shields.io/badge/CODE-1B1F23?style=flat&logo=github&logoColor=white" />
   </a>
 </div>
 </div>
@@ -115,17 +115,17 @@
 <div style="background: #1A1B26; border-radius: 6px; padding: 12px;">
 <h3 style="margin: 0;">🍿 CornFlix</h3>
 <div style="display: flex; gap: 8px; margin: 12px 0;">
-  <img height="28" src="https://img.shields.io/badge/REACT-61DAFB?style=flat&logo=react&logoColor=black" />
-  <img height="28" src="https://img.shields.io/badge/FIREBASE-FFCA28?style=flat&logo=firebase&logoColor=black" />
-  <img height="28" src="https://img.shields.io/badge/TAILWIND-38B2AC?style=flat&logo=tailwind-css&logoColor=white" />
+  <img height="20" src="https://img.shields.io/badge/REACT-61DAFB?style=flat&logo=react&logoColor=black" />
+  <img height="20" src="https://img.shields.io/badge/FIREBASE-FFCA28?style=flat&logo=firebase&logoColor=black" />
+  <img height="20" src="https://img.shields.io/badge/TAILWIND-38B2AC?style=flat&logo=tailwind-css&logoColor=white" />
 </div>
 <p style="font-size: 10px; margin: 8px 0;">Modern streaming platform with personalized recommendations</p>
 <div style="display: flex; gap: 8px;">
   <a href="https://corn-flix.vercel.app">
-    <img height="24" src="https://img.shields.io/badge/DEMO-FF5722?style=flat&logo=google-chrome&logoColor=white" />
+    <img height="20" src="https://img.shields.io/badge/DEMO-FF5722?style=flat&logo=google-chrome&logoColor=white" />
   </a>
   <a href="https://github.com/bhupender2/CornFlix">
-    <img height="24" src="https://img.shields.io/badge/CODE-1B1F23?style=flat&logo=github&logoColor=white" />
+    <img height="20" src="https://img.shields.io/badge/CODE-1B1F23?style=flat&logo=github&logoColor=white" />
   </a>
 </div>
 </div>
