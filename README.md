@@ -1,131 +1,156 @@
-# <div align="center">![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=435&lines=Bhupender+Singh;Full+Stack+Developer)</div>
-
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212749168-86d6c7ab-13a1-4d6f-9ae6-ba25e3877b85.gif" width="800" height="200" alt="Coding Animation" />
-</div>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
-</div>
+# Bhupender Singh
 
-<h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=React+Specialist+%7C+Problem+Solver;3%2B+Years+of+Web+Development+Experience;Always+Learning+New+Technologies" alt="Typing SVG" />
-</h3>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&center=true&vCenter=true&random=false&width=600&height=70&lines=Full+Stack+Developer;React+Specialist;Problem+Solver)](https://git.io/typing-svg)
 
-<div align="center">
-  
-[![Portfolio](https://custom-icon-badges.demolab.com/badge/-Portfolio-teal?style=for-the-badge&logo=browser&logoColor=white)](https://bhupender-singh.netlify.app/)
-[![Email](https://custom-icon-badges.demolab.com/badge/-Email-red?style=for-the-badge&logo=mail&logoColor=white)](mailto:b.mehtaa2021@gmail.com)
-[![LinkedIn](https://custom-icon-badges.demolab.com/badge/-LinkedIn-blue?style=for-the-badge&logo=person-fill&logoColor=white)](https://www.linkedin.com/in/bhupender-mehta-661331226)
-[![Twitter](https://custom-icon-badges.demolab.com/badge/-Twitter-blue?style=for-the-badge&logo=twitter-x&logoColor=white)](https://x.com/Bhupender_Codes)
+<a href="https://bhupender-singh.netlify.app">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" />
+</a>
+<a href="mailto:b.mehtaa2021@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+<a href="https://www.linkedin.com/in/bhupender-mehta-661331226">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="https://x.com/Bhupender_Codes">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+</a>
 
 </div>
 
 ## 🚀 About Me
 
-> *"Code is like humor. When you have to explain it, it's bad." – Cory House*
+> Building digital experiences that matter
 
 ```javascript
-const bhupender = {
-  experience: "3+ years in web development",
-  currentProject: "Video Streaming Website",
-  learning: ["NextJS", "React Native"],
-  lookingFor: "Full Stack Projects Collaboration",
-  funFact: "I can cook and I'm quite funny! 😄",
-  contact: {
-    portfolio: "bhupender-singh.netlify.app",
-    email: "b.mehtaa2021@gmail.com"
-  }
-};
+{
+  "name": "Bhupender Singh",
+  "title": "Full Stack Developer",
+  "experience": "3+ years",
+  "currentProject": "Video Streaming Platform",
+  "passions": ["Clean Code", "User Experience", "Innovation"],
+  "learning": ["Next.js", "React Native"],
+  "funFact": "I debug with coffee ☕"
+}
 ```
 
-## 🛠️ Tech Stack
+## 💻 Tech Stack
 
-<div align="center">
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 
-[![React](https://custom-icon-badges.demolab.com/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://reactjs.org)
-[![JavaScript](https://custom-icon-badges.demolab.com/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://javascript.com)
-[![TypeScript](https://custom-icon-badges.demolab.com/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org)
-[![Tailwind](https://custom-icon-badges.demolab.com/badge/-Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com)
-[![MongoDB](https://custom-icon-badges.demolab.com/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com)
-[![HTML5](https://custom-icon-badges.demolab.com/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://html.spec.whatwg.org)
-[![CSS3](https://custom-icon-badges.demolab.com/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://www.w3.org/Style/CSS)
-[![Redux](https://custom-icon-badges.demolab.com/badge/-Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)](https://redux.js.org)
-[![SASS](https://custom-icon-badges.demolab.com/badge/-SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white)](https://sass-lang.com)
+## 🚀 Featured Projects
+
+<div align="center" style="background-color: #0D1117; padding: 20px; border-radius: 10px;">
+
+<table style="border-spacing: 12px; background: none;">
+<tr>
+<td width="50%">
+<div style="background: #1A1B26; border-radius: 6px; padding: 12px;">
+<h3 style="margin: 0;">🎬 Abhivyakti Cinema</h3>
+<div style="display: flex; gap: 8px; margin: 12px 0;">
+  <img height="28" src="https://img.shields.io/badge/REACT-61DAFB?style=flat&logo=react&logoColor=black" />
+  <img height="28" src="https://img.shields.io/badge/REDUX-764ABC?style=flat&logo=redux&logoColor=white" />
+  <img height="28" src="https://img.shields.io/badge/TMDB_API-01B4E4?style=flat&logo=themoviedatabase&logoColor=white" />
+</div>
+<p style="font-size: 14px; margin: 8px 0;">Modern movie & TV platform with advanced search and trailer playback</p>
+<div style="display: flex; gap: 8px;">
+  <a href="https://abhivyakti-cinema.vercel.app">
+    <img height="24" src="https://img.shields.io/badge/DEMO-FF5722?style=flat&logo=google-chrome&logoColor=white" />
+  </a>
+  <a href="https://github.com/bhupender2/Abhivyakti-Cinema">
+    <img height="24" src="https://img.shields.io/badge/CODE-1B1F23?style=flat&logo=github&logoColor=white" />
+  </a>
+</div>
+</div>
+</td>
+<td width="50%">
+<div style="background: #1A1B26; border-radius: 6px; padding: 12px;">
+<h3 style="margin: 0;">🌍 WorldWise</h3>
+<div style="display: flex; gap: 8px; margin: 12px 0;">
+  <img height="28" src="https://img.shields.io/badge/REACT-61DAFB?style=flat&logo=react&logoColor=black" />
+  <img height="28" src="https://img.shields.io/badge/LEAFLET-199900?style=flat&logo=leaflet&logoColor=white" />
+  <img height="28" src="https://img.shields.io/badge/CONTEXT_API-593D88?style=flat" />
+</div>
+<p style="font-size: 14px; margin: 8px 0;">Interactive travel companion for tracking your global adventures</p>
+<div style="display: flex; gap: 8px;">
+  <a href="https://world-wise-teal-seven.vercel.app">
+    <img height="24" src="https://img.shields.io/badge/DEMO-FF5722?style=flat&logo=google-chrome&logoColor=white" />
+  </a>
+  <a href="https://github.com/bhupender2/WorldWise">
+    <img height="24" src="https://img.shields.io/badge/CODE-1B1F23?style=flat&logo=github&logoColor=white" />
+  </a>
+</div>
+</div>
+</td>
+</tr>
+<tr>
+<td width="50%">
+<div style="background: #1A1B26; border-radius: 6px; padding: 12px;">
+<h3 style="margin: 0;">💬 Real-time Chat</h3>
+<div style="display: flex; gap: 8px; margin: 12px 0;">
+  <img height="28" src="https://img.shields.io/badge/REACT-61DAFB?style=flat&logo=react&logoColor=black" />
+  <img height="28" src="https://img.shields.io/badge/SOCKET.IO-010101?style=flat&logo=socket.io&logoColor=white" />
+  <img height="28" src="https://img.shields.io/badge/EXPRESS-000000?style=flat&logo=express&logoColor=white" />
+</div>
+<p style="font-size: 14px; margin: 8px 0;">Feature-rich group chat application with real-time messaging</p>
+<div style="display: flex; gap: 8px;">
+  <a href="https://chat-app-five-teal.vercel.app">
+    <img height="24" src="https://img.shields.io/badge/DEMO-FF5722?style=flat&logo=google-chrome&logoColor=white" />
+  </a>
+  <a href="https://github.com/bhupender2/chat-app">
+    <img height="24" src="https://img.shields.io/badge/CODE-1B1F23?style=flat&logo=github&logoColor=white" />
+  </a>
+</div>
+</div>
+</td>
+<td width="50%">
+<div style="background: #1A1B26; border-radius: 6px; padding: 12px;">
+<h3 style="margin: 0;">🍿 CornFlix</h3>
+<div style="display: flex; gap: 8px; margin: 12px 0;">
+  <img height="28" src="https://img.shields.io/badge/REACT-61DAFB?style=flat&logo=react&logoColor=black" />
+  <img height="28" src="https://img.shields.io/badge/FIREBASE-FFCA28?style=flat&logo=firebase&logoColor=black" />
+  <img height="28" src="https://img.shields.io/badge/TAILWIND-38B2AC?style=flat&logo=tailwind-css&logoColor=white" />
+</div>
+<p style="font-size: 14px; margin: 8px 0;">Modern streaming platform with personalized recommendations</p>
+<div style="display: flex; gap: 8px;">
+  <a href="https://corn-flix.vercel.app">
+    <img height="24" src="https://img.shields.io/badge/DEMO-FF5722?style=flat&logo=google-chrome&logoColor=white" />
+  </a>
+  <a href="https://github.com/bhupender2/CornFlix">
+    <img height="24" src="https://img.shields.io/badge/CODE-1B1F23?style=flat&logo=github&logoColor=white" />
+  </a>
+</div>
+</div>
+</td>
+</tr>
+</table>
 
 </div>
 
-## 🌟 Featured Projects
+## 📈 GitHub Stats
 
 <div align="center">
-
-<details>
-<summary><b>🎬 Abhivyakti Cinema</b></summary>
-
-### A ReactJS-based Movie & TV Show Platform
-
-> Search, sort, and watch trailers for your favorite content!
-
-[![Live Demo](https://custom-icon-badges.demolab.com/badge/-Live_Demo-teal?style=for-the-badge&logo=video&logoColor=white)](https://abhivyakti-cinema.vercel.app/)
-[![GitHub](https://custom-icon-badges.demolab.com/badge/-Source_Code-gray?style=for-the-badge&logo=code&logoColor=white)](https://github.com/bhupender2/Abhivyakti-Cinema)
-
-</details>
-
-<details>
-<summary><b>🌍 WorldWise App</b></summary>
-
-### Your Personal Travel Companion
-
-> Record and manage your global adventures with style!
-
-[![Live Demo](https://custom-icon-badges.demolab.com/badge/-Live_Demo-teal?style=for-the-badge&logo=video&logoColor=white)](https://world-wise-teal-seven.vercel.app/)
-[![GitHub](https://custom-icon-badges.demolab.com/badge/-Source_Code-gray?style=for-the-badge&logo=code&logoColor=white)](https://github.com/bhupender2/WorldWise)
-
-</details>
-
-<details>
-<summary><b>💬 Group Chat App</b></summary>
-
-### Real-time Chat Application
-
-> Connect instantly using React, Socket.io, and Express.js
-
-[![Live Demo](https://custom-icon-badges.demolab.com/badge/-Live_Demo-teal?style=for-the-badge&logo=video&logoColor=white)](https://chat-app-five-teal.vercel.app/)
-[![GitHub](https://custom-icon-badges.demolab.com/badge/-Source_Code-gray?style=for-the-badge&logo=code&logoColor=white)](https://github.com/bhupender2/chat-app)
-
-</details>
-
-<details>
-<summary><b>🍿 CornFlix</b></summary>
-
-### Modern Movie Application
-
-> Your go-to platform for everything cinema!
-
-[![Live Demo](https://custom-icon-badges.demolab.com/badge/-Live_Demo-teal?style=for-the-badge&logo=video&logoColor=white)](https://corn-flix.vercel.app/)
-[![GitHub](https://custom-icon-badges.demolab.com/badge/-Source_Code-gray?style=for-the-badge&logo=code&logoColor=white)](https://github.com/bhupender2/CornFlix)
-
-</details>
-
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=bhupender2&show_icons=true&theme=radical&hide_border=true" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Bhupender2&theme=radical&hide_border=true" />
 </div>
 
-## 📊 GitHub Stats
-
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=bhupender2&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Bhupender2&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Streak" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhupender2&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
-
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhupender2&layout=compact&theme=radical&hide_border=true" />
 </div>
 
-## 🏆 GitHub Trophies
+## 🌟 GitHub Trophies
 
 <div align="center">
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=bhupender2&theme=darkhub&no-frame=true&margin-w=15&margin-h=15)
+![Trophies](https://github-profile-trophy.vercel.app/?username=bhupender2&theme=radical&no-frame=true&margin-w=15&margin-h=15)
 
 </div>
 
@@ -133,25 +158,15 @@ const bhupender = {
 
 <div align="center">
 
-[![LinkedIn](https://custom-icon-badges.demolab.com/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=person-fill&logoColor=white)](https://www.linkedin.com/in/bhupender-mehta-661331226)
-[![CodePen](https://custom-icon-badges.demolab.com/badge/-CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/bhupender2/)
-[![Stack Overflow](https://custom-icon-badges.demolab.com/badge/-Stack_Overflow-F58025?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/20897994/bhupender-singh-mehta)
-[![Twitter](https://custom-icon-badges.demolab.com/badge/-Twitter-1D9BF0?style=for-the-badge&logo=twitter-x&logoColor=white)](https://x.com/Bhupender_Codes)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bhupender-mehta-661331226)
+[![CodePen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/bhupender2)
+[![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/20897994/bhupender-singh-mehta)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/Bhupender_Codes)
 
-</div>
+<img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg" />
 
----
+<img src="https://komarev.com/ghpvc/?username=bhupender2&style=for-the-badge&color=FF69B4" alt="Profile Views" />
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=bhupender2&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-</div>
+*Let's create something amazing together! 🚀*
 
-<div align="center">
-  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
-</div>
-
-<div align="center">
-  
-  *Thanks for visiting my profile! Let's build something amazing together! 🚀*
-  
 </div>
