@@ -1,6 +1,6 @@
 <div align="center">
 
-# Bhupender Singh Mehta
+# Bhupender Singh Mehtan
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&center=true&vCenter=true&random=false&width=600&height=70&lines=Full+Stack+Developer;React+Specialist;Problem+Solver)](https://git.io/typing-svg)
 
