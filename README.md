@@ -28,7 +28,7 @@
   "name": "Bhupender Singh",
   "title": "Full Stack Developer",
   "experience": "3+ years",
-  "currentProject": "Video Streaming Platform",
+  "currentProject": "a project related to webrtc",
   "passions": ["Clean Code", "User Experience", "Innovation"],
   "learning": ["Next.js", "React Native"],
   "funFact": "I debug with coffee ☕"
