@@ -1,172 +1,246 @@
 <div align="center">
 
-# Bhupender  Mehta
+# 👋 Hello, I'm Bhupender Mehta
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&center=true&vCenter=true&random=false&width=600&height=70&lines=Full+Stack+Developer;React+Specialist;Problem+Solver)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=2F81F7&center=true&vCenter=true&multiline=false&width=600&height=70&lines=Full+Stack+Developer;React+%26+Node.js+Specialist;Building+Digital+Experiences;Problem+Solver+%26+Innovator)](https://git.io/typing-svg)
 
-<a href="https://bhupender-singh.netlify.app">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" />
-</a>
-<a href="mailto:b.mehtaa2021@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-</a>
-<a href="https://www.linkedin.com/in/bhupender-mehta-661331226">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-<a href="https://x.com/Bhupender_Codes">
+<p align="center">
+  <em>Passionate about creating scalable web applications and solving complex problems through code</em>
+</p>
+
+---
+
+### 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://bhupender-singh.netlify.app" target="_blank">
+    <img src="https://img.shields.io/badge/🌐_Portfolio-4285F4?style=for-the-badge&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="mailto:b.mehtaa2021@gmail.com">
+    <img src="https://img.shields.io/badge/📧_Email-EA4335?style=for-the-badge&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://www.linkedin.com/in/bhupender-mehta-661331226" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://x.com/Bhupender_Codes" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-</a>
+  </a>
+</p>
 
 </div>
+
+---
 
 ## 🚀 About Me
 
-> Building digital experiences that matter
-
-```javascript
+```json
 {
-  "name": "Bhupender Singh",
-  "title": "Full Stack Developer",
-  "experience": "3+ years",
-  "currentProject": "a project related to webrtc",
-  "passions": ["Clean Code", "User Experience", "Innovation"],
-  "learning": ["Next.js", "React Native"],
-  "funFact": "I debug with coffee ☕"
+  "name": "Bhupender Singh Mehta",
+  "role": "Full Stack Developer",
+  "experience": "3+ Years",
+  "location": "India",
+  "currentFocus": "WebRTC & Real-time Applications",
+  "interests": ["Clean Architecture", "User Experience", "Performance Optimization"],
+  "currentlyLearning": ["Next.js 14", "React Native", "System Design"],
+  "motto": "Code with purpose, build with passion ☕"
 }
 ```
 
-## 💻 Tech Stack
+<details>
+<summary>📈 More About My Journey</summary>
 
+- 🔭 Currently working on **WebRTC-based communication platform**
+- 🌱 Learning **Advanced React Patterns** and **Microservices Architecture**
+- 👯 Looking to collaborate on **Open Source Projects**
+- 💬 Ask me about **React, Node.js, MongoDB, and Full Stack Development**
+- ⚡ Fun fact: **I debug better with coffee and solve problems faster with music 🎵**
+
+</details>
+
+---
+
+## 🛠️ Technology Stack
+
+<div align="center">
+
+### Frontend Development
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+### Backend Development
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
+### State Management & Tools
 ![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-
-## 🚀 Featured Projects
-
-<div align="center" style="background-color: #0D1117; padding: 20px; border-radius: 10px;">
-
-<table style="border-spacing: 12px; background: none;">
-<tr>
-<td width="50%">
-<div style="background: #1A1B26; border-radius: 6px; padding: 12px 12px 20px 12px;">
-<h3 style="margin: 0;">🎬 Abhivyakti Cinema</h3>
-<div style="display: flex; gap: 8px; margin: 12px 0;">
-  <img height="20" src="https://img.shields.io/badge/REACT-61DAFB?style=flat&logo=react&logoColor=black" />
-  <img height="20" src="https://img.shields.io/badge/REDUX-764ABC?style=flat&logo=redux&logoColor=white" />
-  <img height="20" src="https://img.shields.io/badge/TMDB_API-01B4E4?style=flat&logo=themoviedatabase&logoColor=white" />
-</div>
-<p style="font-size: 10px; margin: 8px 0;">Modern movie & TV platform with advanced search and trailer playback</p>
-<div style="display: flex; gap: 8px;">
-  <a href="https://abhivyakti-cinema.vercel.app">
-    <img height="20" src="https://img.shields.io/badge/DEMO-FF5722?style=flat&logo=google-chrome&logoColor=white" />
-  </a>
-  <a href="https://github.com/bhupender2/Abhivyakti-Cinema">
-    <img height="20" src="https://img.shields.io/badge/CODE-1B1F23?style=flat&logo=github&logoColor=white" />
-  </a>
-</div>
-</div>
-</td>
-<td width="50%">
-<div style="background: #1A1B26; border-radius: 6px; padding: 12px;">
-<h3 style="margin: 0;">🌍 WorldWise</h3>
-<div style="display: flex; gap: 8px; margin: 12px 0;">
-  <img height="20" src="https://img.shields.io/badge/REACT-61DAFB?style=flat&logo=react&logoColor=black" />
-  <img height="20" src="https://img.shields.io/badge/LEAFLET-199900?style=flat&logo=leaflet&logoColor=white" />
-  <img height="20" src="https://img.shields.io/badge/CONTEXT_API-593D88?style=flat" />
-</div>
-<p style="font-size: 10px; margin: 8px 0;">Interactive travel companion for tracking your global adventures</p>
-<div style="display: flex; gap: 8px;">
-  <a href="https://world-wise-teal-seven.vercel.app">
-    <img height="20" src="https://img.shields.io/badge/DEMO-FF5722?style=flat&logo=google-chrome&logoColor=white" />
-  </a>
-  <a href="https://github.com/bhupender2/WorldWise">
-    <img height="20" src="https://img.shields.io/badge/CODE-1B1F23?style=flat&logo=github&logoColor=white" />
-  </a>
-</div>
-</div>
-</td>
-</tr>
-<tr>
-<td width="50%">
-<div style="background: #1A1B26; border-radius: 6px; padding: 12px;">
-<h3 style="margin: 0;">💬 Real-time Chat</h3>
-<div style="display: flex; gap: 8px; margin: 12px 0;">
-  <img height="20" src="https://img.shields.io/badge/REACT-61DAFB?style=flat&logo=react&logoColor=black" />
-  <img height="20" src="https://img.shields.io/badge/SOCKET.IO-010101?style=flat&logo=socket.io&logoColor=white" />
-  <img height="20" src="https://img.shields.io/badge/EXPRESS-000000?style=flat&logo=express&logoColor=white" />
-</div>
-<p style="font-size: 10px; margin: 8px 0;">Feature-rich group chat application with real-time messaging</p>
-<div style="display: flex; gap: 8px;">
-  <a href="https://chat-app-five-teal.vercel.app">
-    <img height="20" src="https://img.shields.io/badge/DEMO-FF5722?style=flat&logo=google-chrome&logoColor=white" />
-  </a>
-  <a href="https://github.com/bhupender2/chat-app">
-    <img height="20" src="https://img.shields.io/badge/CODE-1B1F23?style=flat&logo=github&logoColor=white" />
-  </a>
-</div>
-</div>
-</td>
-<td width="50%">
-<div style="background: #1A1B26; border-radius: 6px; padding: 12px;">
-<h3 style="margin: 0;">🍿 CornFlix</h3>
-<div style="display: flex; gap: 8px; margin: 12px 0;">
-  <img height="20" src="https://img.shields.io/badge/REACT-61DAFB?style=flat&logo=react&logoColor=black" />
-  <img height="20" src="https://img.shields.io/badge/FIREBASE-FFCA28?style=flat&logo=firebase&logoColor=black" />
-  <img height="20" src="https://img.shields.io/badge/TAILWIND-38B2AC?style=flat&logo=tailwind-css&logoColor=white" />
-</div>
-<p style="font-size: 10px; margin: 8px 0;">Modern streaming platform with personalized recommendations</p>
-<div style="display: flex; gap: 8px;">
-  <a href="https://corn-flix.vercel.app">
-    <img height="20" src="https://img.shields.io/badge/DEMO-FF5722?style=flat&logo=google-chrome&logoColor=white" />
-  </a>
-  <a href="https://github.com/bhupender2/CornFlix">
-    <img height="20" src="https://img.shields.io/badge/CODE-1B1F23?style=flat&logo=github&logoColor=white" />
-  </a>
-</div>
-</div>
-</td>
-</tr>
-</table>
+![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
 </div>
 
-## 📈 GitHub Stats
+---
 
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=bhupender2&show_icons=true&theme=radical&hide_border=true" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Bhupender2&theme=radical&hide_border=true" />
-</div>
-
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhupender2&layout=compact&theme=radical&hide_border=true" />
-</div>
-
-## 🌟 GitHub Trophies
+## 🎯 Featured Projects
 
 <div align="center">
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=bhupender2&theme=radical&no-frame=true&margin-w=15&margin-h=15)
+### 🎬 Abhivyakti Cinema
+**Modern Movie & TV Platform with Advanced Features**
+
+[![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)](https://github.com/bhupender2/Abhivyakti-Cinema)
+[![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white)](https://github.com/bhupender2/Abhivyakti-Cinema)
+[![TMDB API](https://img.shields.io/badge/TMDB_API-01B4E4?style=flat-square&logo=themoviedatabase&logoColor=white)](https://github.com/bhupender2/Abhivyakti-Cinema)
+
+> A comprehensive entertainment platform featuring movie discovery, trailer playback, and personalized recommendations with a sleek, responsive design.
+
+**Key Features:** Advanced Search • Trailer Integration • Responsive Design • Real-time Data
+
+<p>
+  <a href="https://abhivyakti-cinema.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/🚀_Live_Demo-FF5722?style=for-the-badge&logoColor=white" alt="Live Demo" />
+  </a>
+  <a href="https://github.com/bhupender2/Abhivyakti-Cinema" target="_blank">
+    <img src="https://img.shields.io/badge/📂_Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source Code" />
+  </a>
+</p>
+
+---
+
+### 🌍 WorldWise
+**Interactive Travel Companion & Journey Tracker**
+
+[![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)](https://github.com/bhupender2/WorldWise)
+[![Leaflet](https://img.shields.io/badge/Leaflet-199900?style=flat-square&logo=leaflet&logoColor=white)](https://github.com/bhupender2/WorldWise)
+[![Context API](https://img.shields.io/badge/Context_API-593D88?style=flat-square)](https://github.com/bhupender2/WorldWise)
+
+> Track your global adventures with interactive maps, city information, and personal travel statistics in this beautifully crafted travel companion.
+
+**Key Features:** Interactive Maps • City Data • Travel Statistics • Offline Support
+
+<p>
+  <a href="https://world-wise-teal-seven.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/🚀_Live_Demo-FF5722?style=for-the-badge&logoColor=white" alt="Live Demo" />
+  </a>
+  <a href="https://github.com/bhupender2/WorldWise" target="_blank">
+    <img src="https://img.shields.io/badge/📂_Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source Code" />
+  </a>
+</p>
+
+---
+
+### 💬 Real-time Chat Application
+**Feature-Rich Group Communication Platform**
+
+[![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)](https://github.com/bhupender2/chat-app)
+[![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socket.io&logoColor=white)](https://github.com/bhupender2/chat-app)
+[![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)](https://github.com/bhupender2/chat-app)
+
+> Real-time messaging application with group chat functionality, message history, and modern UI/UX design patterns.
+
+**Key Features:** Real-time Messaging • Group Chats • Message History • Modern UI
+
+<p>
+  <a href="https://chat-app-five-teal.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/🚀_Live_Demo-FF5722?style=for-the-badge&logoColor=white" alt="Live Demo" />
+  </a>
+  <a href="https://github.com/bhupender2/chat-app" target="_blank">
+    <img src="https://img.shields.io/badge/📂_Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source Code" />
+  </a>
+</p>
+
+---
+
+### 🍿 CornFlix
+**Modern Streaming Platform Experience**
+
+[![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)](https://github.com/bhupender2/CornFlix)
+[![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)](https://github.com/bhupender2/CornFlix)
+[![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)](https://github.com/bhupender2/CornFlix)
+
+> Netflix-inspired streaming platform with user authentication, personalized recommendations, and seamless video streaming experience.
+
+**Key Features:** User Authentication • Personalized Content • Video Streaming • Responsive Design
+
+<p>
+  <a href="https://corn-flix.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/🚀_Live_Demo-FF5722?style=for-the-badge&logoColor=white" alt="Live Demo" />
+  </a>
+  <a href="https://github.com/bhupender2/CornFlix" target="_blank">
+    <img src="https://img.shields.io/badge/📂_Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source Code" />
+  </a>
+</p>
 
 </div>
 
-## 🤝 Let's Connect
+---
+
+## 📊 GitHub Analytics
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bhupender-mehta-661331226)
-[![CodePen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/bhupender2)
-[![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/20897994/bhupender-singh-mehta)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/Bhupender_Codes)
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=bhupender2&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=bhupender2&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
-<img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg" />
+<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhupender2&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
 
-<img src="https://komarev.com/ghpvc/?username=bhupender2&style=for-the-badge&color=FF69B4" alt="Profile Views" />
+### 🏆 GitHub Achievements
 
-*Let's create something amazing together! 🚀*
+<img src="https://github-profile-trophy.vercel.app/?username=bhupender2&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15&column=4" alt="GitHub Trophies" />
 
 </div>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+
+![Snake animation](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg)
+
+</div>
+
+---
+
+## 🤝 Let's Build Something Amazing Together
+
+<div align="center">
+
+<p>
+  <em>"The best way to predict the future is to create it."</em>
+</p>
+
+**I'm always open to interesting conversations and collaboration opportunities!**
+
+<p>
+  <a href="https://www.linkedin.com/in/bhupender-mehta-661331226" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://codepen.io/bhupender2" target="_blank">
+    <img src="https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="CodePen" />
+  </a>
+  <a href="https://stackoverflow.com/users/20897994/bhupender-singh-mehta" target="_blank">
+    <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="Stack Overflow" />
+  </a>
+  <a href="https://x.com/Bhupender_Codes" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  </a>
+</p>
+
+---
+
+<img src="https://komarev.com/ghpvc/?username=bhupender2&style=for-the-badge&color=2F81F7&label=Profile+Views" alt="Profile Views" />
+
+<p><em>Thanks for visiting! Have a great day! 🚀</em></p>
+
+</div>
+ 
+
+ 
+
