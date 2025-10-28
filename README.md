@@ -161,12 +161,7 @@ Netflix-inspired streaming platform with complete authentication system and pers
 <div align="center">
 
 ## 📈 GitHub Stats
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=bhupender2&custom_title=Contribution%20Graph&bg_color=1a1b27&color=667EEA&line=667EEA&point=bf91f3&area_color=667EEA&area=true&hide_border=true&theme=github-dark">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=bhupender2&custom_title=Contribution%20Graph&bg_color=ffffff&color=667EEA&line=667EEA&point=bf91f3&area_color=667EEA&area=true&hide_border=true">
-  <img alt="GitHub Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=bhupender2&custom_title=Contribution%20Graph&bg_color=1a1b27&color=667EEA&line=667EEA&point=bf91f3&area_color=667EEA&area=true&hide_border=true&theme=github-dark">
-</picture>
+ Ï
 
 <br><br>
 
