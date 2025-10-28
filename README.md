@@ -1,8 +1,10 @@
-<div align="center">
+<link href="https://fonts.googleapis.com/css2?family=Pixelify+Sans:wght@400;500;600;700&display=swap" rel="stylesheet">
+
+<div align="center" style="font-family: 'Pixelify Sans', cursive;">
 
 <img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&size=35&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Bhupender+Singh+Mehta;Full+Stack+Developer;WebRTC+Specialist;Building+Real-time+Systems" alt="Typing SVG" />
 
-### 🚀 React • Node.js • WebRTC • Real-time Systems
+<img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&size=22&duration=3000&pause=1000&color=bf91f3&center=true&vCenter=true&width=500&lines=React+•+Node.js+•+WebRTC;Real-time+Systems+Expert" alt="Skills" />
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_Site-667EEA?style=for-the-badge&labelColor=1a1b27)](https://bhupender-singh.netlify.app)
 [![Email](https://img.shields.io/badge/📧_Email-Contact_Me-EA4335?style=for-the-badge&labelColor=1a1b27)](mailto:b.mehtaa2021@gmail.com)
@@ -15,7 +17,7 @@
 
 <div align="center">
 
-## 🎯 About Me
+<img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&size=30&duration=2000&pause=500&color=667EEA&center=true&vCenter=true&width=300&lines=🎯+About+Me" alt="About Me" />
 
 </div>
 
@@ -44,29 +46,20 @@ const developer = {
 
 <div align="center">
 
-## 🛠️ Tech Arsenal
+<img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&size=30&duration=2000&pause=500&color=667EEA&center=true&vCenter=true&width=300&lines=🛠️+Tech+Arsenal" alt="Tech Stack" />
 
-</div>
+<br>
 
-<div align="center">
-
-### Frontend Magic
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-20232A?style=for-the-badge&logo=typescript&logoColor=3178C6)
 ![JavaScript](https://img.shields.io/badge/JavaScript-20232A?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-20232A?style=for-the-badge&logo=tailwind-css&logoColor=06B6D4)
 ![Redux](https://img.shields.io/badge/Redux-20232A?style=for-the-badge&logo=redux&logoColor=764ABC)
-
-### Backend Power
 ![Node.js](https://img.shields.io/badge/Node.js-20232A?style=for-the-badge&logo=node.js&logoColor=339933)
 ![Express](https://img.shields.io/badge/Express-20232A?style=for-the-badge&logo=express&logoColor=white)
 ![Socket.io](https://img.shields.io/badge/Socket.io-20232A?style=for-the-badge&logo=socket.io&logoColor=white)
-
-### Database & Cloud
 ![MongoDB](https://img.shields.io/badge/MongoDB-20232A?style=for-the-badge&logo=mongodb&logoColor=47A248)
 ![Firebase](https://img.shields.io/badge/Firebase-20232A?style=for-the-badge&logo=firebase&logoColor=FFCA28)
-
-### Tools & More
 ![Git](https://img.shields.io/badge/Git-20232A?style=for-the-badge&logo=git&logoColor=F05032)
 ![Vercel](https://img.shields.io/badge/Vercel-20232A?style=for-the-badge&logo=vercel&logoColor=white)
 ![WebRTC](https://img.shields.io/badge/WebRTC-20232A?style=for-the-badge&logo=webrtc&logoColor=white)
@@ -77,7 +70,7 @@ const developer = {
 
 <div align="center">
 
-## 🎨 Featured Projects
+<img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&size=30&duration=2000&pause=500&color=667EEA&center=true&vCenter=true&width=400&lines=🎨+Featured+Projects" alt="Projects" />
 
 </div>
 
@@ -85,7 +78,12 @@ const developer = {
 <tr>
 <td width="50%" valign="top">
 
-### 🎬 Abhivyakti Cinema
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&size=24&duration=2000&pause=500&color=bf91f3&center=true&vCenter=true&width=400&lines=🎬+Abhivyakti+Cinema" alt="Project 1" />
+
+</div>
+
 <p align="center">
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
 <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white"/>
@@ -102,7 +100,12 @@ Movie/TV streaming platform featuring advanced search capabilities, trailer inte
 </td>
 <td width="50%" valign="top">
 
-### 🗺️ WorldWise
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&size=24&duration=2000&pause=500&color=bf91f3&center=true&vCenter=true&width=400&lines=🗺️+WorldWise" alt="Project 2" />
+
+</div>
+
 <p align="center">
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
 <img src="https://img.shields.io/badge/Leaflet-199900?style=flat-square&logo=leaflet&logoColor=white"/>
@@ -121,7 +124,12 @@ Travel companion application with interactive maps, city data tracking, and comp
 <tr>
 <td width="50%" valign="top">
 
-### 💬 Real-time Chat App
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&size=24&duration=2000&pause=500&color=bf91f3&center=true&vCenter=true&width=400&lines=💬+Real-time+Chat+App" alt="Project 3" />
+
+</div>
+
 <p align="center">
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
 <img src="https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socket.io&logoColor=white"/>
@@ -138,7 +146,12 @@ Full-featured group messaging application with live communication, room manageme
 </td>
 <td width="50%" valign="top">
 
-### 🎥 CornFlix
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&size=24&duration=2000&pause=500&color=bf91f3&center=true&vCenter=true&width=400&lines=🎥+CornFlix" alt="Project 4" />
+
+</div>
+
 <p align="center">
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
 <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
@@ -160,8 +173,15 @@ Netflix-inspired streaming platform with complete authentication system and pers
 
 <div align="center">
 
-## 📈 GitHub Stats
- Ï
+<img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&size=30&duration=2000&pause=500&color=667EEA&center=true&vCenter=true&width=350&lines=📈+GitHub+Stats" alt="Stats" />
+
+<br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=bhupender2&custom_title=Contribution%20Graph&bg_color=1a1b27&color=667EEA&line=667EEA&point=bf91f3&area_color=667EEA&area=true&hide_border=true&theme=github-dark">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=bhupender2&custom_title=Contribution%20Graph&bg_color=ffffff&color=667EEA&line=667EEA&point=bf91f3&area_color=667EEA&area=true&hide_border=true">
+  <img alt="GitHub Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=bhupender2&custom_title=Contribution%20Graph&bg_color=1a1b27&color=667EEA&line=667EEA&point=bf91f3&area_color=667EEA&area=true&hide_border=true&theme=github-dark">
+</picture>
 
 <br><br>
 
@@ -182,7 +202,9 @@ Netflix-inspired streaming platform with complete authentication system and pers
 
 <div align="center">
 
-## 🤝 Let's Connect
+<img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&size=30&duration=2000&pause=500&color=667EEA&center=true&vCenter=true&width=350&lines=🤝+Let's+Connect" alt="Connect" />
+
+<br>
 
 <a href="https://www.linkedin.com/in/bhupender-mehta-661331226">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1b27" alt="LinkedIn"/>
@@ -201,10 +223,10 @@ Netflix-inspired streaming platform with complete authentication system and pers
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&fontSize=16&fontColor=fff&animation=twinkling" width="100%"/>
 
-### 💡 *"The best way to predict the future is to create it."*
+<img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&size=20&duration=3000&pause=1000&color=bf91f3&center=true&vCenter=true&width=600&lines=💡+The+best+way+to+predict+the+future+is+to+create+it" alt="Quote" />
 
 <br>
 
-**⭐ If you like my work, consider giving my projects a star!**
+<img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&size=18&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&width=600&lines=⭐+Star+my+repositories+if+you+find+them+useful!" alt="Star" />
 
 </div>
