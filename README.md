@@ -1,122 +1,215 @@
 <div align="center">
 
-# BHUPENDER SINGH MEHTA
+<img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&size=35&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Bhupender+Singh+Mehta;Full+Stack+Developer;WebRTC+Specialist;Building+Real-time+Systems" alt="Typing SVG" />
 
-### Full Stack Developer | React • Node.js • WebRTC Specialist
+### 🚀 React • Node.js • WebRTC • Real-time Systems
 
-<a href="https://bhupender-singh.netlify.app"><img src="https://img.shields.io/badge/Portfolio-667EEA?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
-<a href="mailto:b.mehtaa2021@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/bhupender-mehta-661331226"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://x.com/Bhupender_Codes"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white"/></a>
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_Site-667EEA?style=for-the-badge&labelColor=1a1b27)](https://bhupender-singh.netlify.app)
+[![Email](https://img.shields.io/badge/📧_Email-Contact_Me-EA4335?style=for-the-badge&labelColor=1a1b27)](mailto:b.mehtaa2021@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&labelColor=1a1b27)](https://www.linkedin.com/in/bhupender-mehta-661331226)
+[![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=x&labelColor=1a1b27)](https://x.com/Bhupender_Codes)
 
 </div>
 
 ---
 
-## About Me
+<div align="center">
 
-```typescript
+## 🎯 About Me
+
+</div>
+
+```javascript
 const developer = {
   name: "Bhupender Singh Mehta",
   location: "India 🇮🇳",
   experience: "3+ Years",
-  focus: ["WebRTC", "Real-time Systems", "Clean Architecture"]
+  role: "Full Stack Developer",
+  specialization: ["WebRTC", "Real-time Systems", "Clean Architecture"],
+  currentlyBuilding: "Scalable Web Applications",
+  motto: "Create the future, don't just predict it"
 };
 ```
 
----
-
-## Tech Stack
-
 <div align="center">
 
-**Frontend**
-
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-20232A?style=flat&logo=typescript&logoColor=3178C6)
-![JavaScript](https://img.shields.io/badge/JavaScript-20232A?style=flat&logo=javascript&logoColor=F7DF1E)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-20232A?style=flat&logo=tailwind-css&logoColor=06B6D4)
-
-**Backend & Database**
-
-![Node.js](https://img.shields.io/badge/Node.js-20232A?style=flat&logo=node.js&logoColor=339933)
-![Express](https://img.shields.io/badge/Express-20232A?style=flat&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-20232A?style=flat&logo=mongodb&logoColor=47A248)
-![Firebase](https://img.shields.io/badge/Firebase-20232A?style=flat&logo=firebase&logoColor=FFCA28)
-
-**Real-time & Tools**
-
-![Socket.io](https://img.shields.io/badge/Socket.io-20232A?style=flat&logo=socket.io&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-20232A?style=flat&logo=redux&logoColor=764ABC)
-![Git](https://img.shields.io/badge/Git-20232A?style=flat&logo=git&logoColor=F05032)
-![Vercel](https://img.shields.io/badge/Vercel-20232A?style=flat&logo=vercel&logoColor=white)
+🔭 Building real-time applications with modern technologies  
+💡 Passionate about clean code and scalable architectures  
+🌱 Always learning and exploring new tech stacks  
+⚡ Fun fact: I debug with console.log() like a pro!
 
 </div>
 
 ---
 
-## Featured Projects
+<div align="center">
 
-### Abhivyakti Cinema
-Movie/TV platform with advanced search, trailer integration, and real-time data. Built with React, Redux, and TMDB API.
+## 🛠️ Tech Arsenal
 
-<a href="https://abhivyakti-cinema.vercel.app"><img src="https://img.shields.io/badge/Live_Demo-667EEA?style=flat-square&logo=vercel&logoColor=white"/></a>
-<a href="https://github.com/bhupender2/Abhivyakti-Cinema"><img src="https://img.shields.io/badge/Source_Code-181717?style=flat-square&logo=github&logoColor=white"/></a>
-
----
-
-### WorldWise
-Travel companion with interactive maps, city data tracking, and travel statistics. Built with React, Leaflet, and Context API.
-
-<a href="https://world-wise-teal-seven.vercel.app"><img src="https://img.shields.io/badge/Live_Demo-667EEA?style=flat-square&logo=vercel&logoColor=white"/></a>
-<a href="https://github.com/bhupender2/WorldWise"><img src="https://img.shields.io/badge/Source_Code-181717?style=flat-square&logo=github&logoColor=white"/></a>
-
----
-
-### Real-time Chat Application
-Group messaging application with live communication, room management, and chat history. Built with React, Socket.IO, and Express.
-
-<a href="https://chat-app-five-teal.vercel.app"><img src="https://img.shields.io/badge/Live_Demo-667EEA?style=flat-square&logo=vercel&logoColor=white"/></a>
-<a href="https://github.com/bhupender2/chat-app"><img src="https://img.shields.io/badge/Source_Code-181717?style=flat-square&logo=github&logoColor=white"/></a>
-
----
-
-### CornFlix
-Streaming platform with authentication and personalized content recommendations. Built with React, Firebase, and Tailwind CSS.
-
-<a href="https://corn-flix.vercel.app"><img src="https://img.shields.io/badge/Live_Demo-667EEA?style=flat-square&logo=vercel&logoColor=white"/></a>
-<a href="https://github.com/bhupender2/CornFlix"><img src="https://img.shields.io/badge/Source_Code-181717?style=flat-square&logo=github&logoColor=white"/></a>
-
----
-
-## GitHub Statistics
+</div>
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=bhupender2&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae" alt="GitHub Stats"/>
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=bhupender2&theme=tokyonight&hide_border=true&background=1a1b27&ring=70a5fd&fire=bf91f3&currStreakLabel=38bdae" alt="GitHub Streak"/>
+### Frontend Magic
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-20232A?style=for-the-badge&logo=typescript&logoColor=3178C6)
+![JavaScript](https://img.shields.io/badge/JavaScript-20232A?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-20232A?style=for-the-badge&logo=tailwind-css&logoColor=06B6D4)
+![Redux](https://img.shields.io/badge/Redux-20232A?style=for-the-badge&logo=redux&logoColor=764ABC)
 
-<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhupender2&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&text_color=38bdae&langs_count=8" alt="Top Languages"/>
+### Backend Power
+![Node.js](https://img.shields.io/badge/Node.js-20232A?style=for-the-badge&logo=node.js&logoColor=339933)
+![Express](https://img.shields.io/badge/Express-20232A?style=for-the-badge&logo=express&logoColor=white)
+![Socket.io](https://img.shields.io/badge/Socket.io-20232A?style=for-the-badge&logo=socket.io&logoColor=white)
+
+### Database & Cloud
+![MongoDB](https://img.shields.io/badge/MongoDB-20232A?style=for-the-badge&logo=mongodb&logoColor=47A248)
+![Firebase](https://img.shields.io/badge/Firebase-20232A?style=for-the-badge&logo=firebase&logoColor=FFCA28)
+
+### Tools & More
+![Git](https://img.shields.io/badge/Git-20232A?style=for-the-badge&logo=git&logoColor=F05032)
+![Vercel](https://img.shields.io/badge/Vercel-20232A?style=for-the-badge&logo=vercel&logoColor=white)
+![WebRTC](https://img.shields.io/badge/WebRTC-20232A?style=for-the-badge&logo=webrtc&logoColor=white)
 
 </div>
 
 ---
 
-## Connect With Me
+<div align="center">
+
+## 🎨 Featured Projects
+
+</div>
+
+<table align="center">
+<tr>
+<td width="50%" valign="top">
+
+### 🎬 Abhivyakti Cinema
+<p align="center">
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white"/>
+<img src="https://img.shields.io/badge/TMDB-01B4E4?style=flat-square&logo=themoviedatabase&logoColor=white"/>
+</p>
+
+Movie/TV streaming platform featuring advanced search capabilities, trailer integration, and real-time data from TMDB API. Complete with responsive design and smooth user experience.
+
+<p align="center">
+<a href="https://abhivyakti-cinema.vercel.app"><img src="https://img.shields.io/badge/🌐_Live_Demo-667EEA?style=for-the-badge"/></a>
+<a href="https://github.com/bhupender2/Abhivyakti-Cinema"><img src="https://img.shields.io/badge/💻_Source_Code-181717?style=for-the-badge&logo=github"/></a>
+</p>
+
+</td>
+<td width="50%" valign="top">
+
+### 🗺️ WorldWise
+<p align="center">
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/Leaflet-199900?style=flat-square&logo=leaflet&logoColor=white"/>
+<img src="https://img.shields.io/badge/Context_API-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+</p>
+
+Travel companion application with interactive maps, city data tracking, and comprehensive travel statistics. Track your adventures across the globe with beautiful visualizations.
+
+<p align="center">
+<a href="https://world-wise-teal-seven.vercel.app"><img src="https://img.shields.io/badge/🌐_Live_Demo-667EEA?style=for-the-badge"/></a>
+<a href="https://github.com/bhupender2/WorldWise"><img src="https://img.shields.io/badge/💻_Source_Code-181717?style=for-the-badge&logo=github"/></a>
+</p>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 💬 Real-time Chat App
+<p align="center">
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socket.io&logoColor=white"/>
+<img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white"/>
+</p>
+
+Full-featured group messaging application with live communication, room management, chat history, and typing indicators. Built for seamless real-time collaboration.
+
+<p align="center">
+<a href="https://chat-app-five-teal.vercel.app"><img src="https://img.shields.io/badge/🌐_Live_Demo-667EEA?style=for-the-badge"/></a>
+<a href="https://github.com/bhupender2/chat-app"><img src="https://img.shields.io/badge/💻_Source_Code-181717?style=for-the-badge&logo=github"/></a>
+</p>
+
+</td>
+<td width="50%" valign="top">
+
+### 🎥 CornFlix
+<p align="center">
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
+<img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white"/>
+</p>
+
+Netflix-inspired streaming platform with complete authentication system and personalized content recommendations. Features smooth animations and modern UI design.
+
+<p align="center">
+<a href="https://corn-flix.vercel.app"><img src="https://img.shields.io/badge/🌐_Live_Demo-667EEA?style=for-the-badge"/></a>
+<a href="https://github.com/bhupender2/CornFlix"><img src="https://img.shields.io/badge/💻_Source_Code-181717?style=for-the-badge&logo=github"/></a>
+</p>
+
+</td>
+</tr>
+</table>
+
+---
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/bhupender-mehta-661331226"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://codepen.io/bhupender2"><img src="https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white"/></a>
-<a href="https://stackoverflow.com/users/20897994/bhupender-singh-mehta"><img src="https://img.shields.io/badge/Stack_Overflow-F58025?style=for-the-badge&logo=stack-overflow&logoColor=white"/></a>
-<a href="https://x.com/Bhupender_Codes"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white"/></a>
+## 📈 GitHub Stats
 
-<br/><br/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=bhupender2&custom_title=Contribution%20Graph&bg_color=1a1b27&color=667EEA&line=667EEA&point=bf91f3&area_color=667EEA&area=true&hide_border=true&theme=github-dark">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=bhupender2&custom_title=Contribution%20Graph&bg_color=ffffff&color=667EEA&line=667EEA&point=bf91f3&area_color=667EEA&area=true&hide_border=true">
+  <img alt="GitHub Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=bhupender2&custom_title=Contribution%20Graph&bg_color=1a1b27&color=667EEA&line=667EEA&point=bf91f3&area_color=667EEA&area=true&hide_border=true&theme=github-dark">
+</picture>
 
-<img src="https://komarev.com/ghpvc/?username=bhupender2&style=flat-square&color=667EEA&label=Profile+Views" alt="Profile Views"/>
+<br><br>
 
-<br/><br/>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bhupender2&show_icons=true&theme=radical&hide_border=true&bg_color=1a1b27&title_color=667EEA&icon_color=bf91f3&text_color=c9d1d9&count_private=true&include_all_commits=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bhupender2&layout=compact&theme=radical&hide_border=true&bg_color=1a1b27&title_color=667EEA&text_color=c9d1d9&langs_count=8)
 
-*"The best way to predict the future is to create it."*
+<br>
+
+![GitHub Streak](https://streak-stats.demolab.com?user=bhupender2&theme=radical&hide_border=true&background=1a1b27&ring=667EEA&fire=bf91f3&currStreakLabel=c9d1d9&sideLabels=667EEA&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=9ca3af)
+
+<br>
+
+![Profile Views](https://komarev.com/ghpvc/?username=bhupender2&style=for-the-badge&color=667EEA&label=PROFILE+VIEWS)
+
+</div>
+
+---
+
+<div align="center">
+
+## 🤝 Let's Connect
+
+<a href="https://www.linkedin.com/in/bhupender-mehta-661331226">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1b27" alt="LinkedIn"/>
+</a>
+<a href="https://x.com/Bhupender_Codes">
+  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white&labelColor=1a1b27" alt="Twitter"/>
+</a>
+<a href="https://codepen.io/bhupender2">
+  <img src="https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white&labelColor=1a1b27" alt="CodePen"/>
+</a>
+<a href="https://stackoverflow.com/users/20897994/bhupender-singh-mehta">
+  <img src="https://img.shields.io/badge/Stack_Overflow-F58025?style=for-the-badge&logo=stack-overflow&logoColor=white&labelColor=1a1b27" alt="Stack Overflow"/>
+</a>
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&fontSize=16&fontColor=fff&animation=twinkling" width="100%"/>
+
+### 💡 *"The best way to predict the future is to create it."*
+
+<br>
+
+**⭐ If you like my work, consider giving my projects a star!**
 
 </div>
