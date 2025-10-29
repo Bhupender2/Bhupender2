@@ -10,7 +10,7 @@
 
 ---
 
-## 🔗 Connect With Me
+### 🔗 Connect With Me
 
 <div align="center">
 
@@ -23,7 +23,7 @@
 
 ---
 
-## 🎯 About Me
+### 🎯 About Me
 
  
 const developer = {
@@ -44,7 +44,7 @@ const developer = {
 
 ---
 
-## 🛠️ Tech Arsenal
+### 🛠️ Tech Arsenal
 
 **Frontend:** React | TypeScript | JavaScript | Tailwind CSS | Redux
 
@@ -56,9 +56,9 @@ const developer = {
 
 ---
 
-## 🎨 Featured Projects
+### 🎨 Featured Projects
 
-### 🎬 Abhivyakti Cinema
+#### 🎬 Abhivyakti Cinema
 **Tech Stack:** React | Redux | TMDB API
 
 Movie/TV streaming platform featuring advanced search capabilities, trailer integration, and real-time data from TMDB API. Complete with responsive design and smooth user experience.
@@ -67,7 +67,7 @@ Movie/TV streaming platform featuring advanced search capabilities, trailer inte
 
 ---
 
-### 🗺️ WorldWise
+#### 🗺️ WorldWise
 **Tech Stack:** React | Leaflet | Context API
 
 Travel companion application with interactive maps, city data tracking, and comprehensive travel statistics. Track your adventures across the globe with beautiful visualizations.
@@ -77,7 +77,7 @@ Travel companion application with interactive maps, city data tracking, and comp
 
 ---
 
-### 💬 Real-time Chat App
+#### 💬 Real-time Chat App
 **Tech Stack:** React | Socket.io | Express
 
 Full-featured group messaging application with live communication, room management, chat history, and typing indicators. Built for seamless real-time collaboration.
@@ -86,7 +86,7 @@ Full-featured group messaging application with live communication, room manageme
 
 ---
 
-### 🎥 CornFlix
+#### 🎥 CornFlix
 **Tech Stack:** React | Firebase | Tailwind CSS
 
 Netflix-inspired streaming platform with complete authentication system and personalized content recommendations. Features smooth animations and modern UI design.
