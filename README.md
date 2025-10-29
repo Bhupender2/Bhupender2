@@ -1,5 +1,3 @@
-<link href="https://fonts.googleapis.com/css2?family=Pixelify+Sans:wght@400;500;600;700&display=swap" rel="stylesheet">
-
 <div align="center" style="font-family: 'Pixelify Sans', cursive;">
 
 # Hi, I'm Bhupender Singh Mehta 👋
@@ -13,12 +11,14 @@
 
 ## 🔗 Connect With Me
 
-| Platform | Link |
-|----------|------|
-| 🌐 Portfolio | [Visit Site](https://bhupender-singh.netlify.app) |
-| 📧 Email | [Contact Me](mailto:b.mehtaa2021@gmail.com) |
-| 💼 LinkedIn | [Connect](https://www.linkedin.com/in/bhupender-mehta-661331226) |
-| 𝕏 Twitter | [Follow](https://x.com/Bhupender_Codes) |
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Site-667EEA?style=for-the-badge&logo=netlify&logoColor=white)](https://bhupender-singh.netlify.app)
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:b.mehtaa2021@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bhupender-mehta-661331226)
+[![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/Bhupender_Codes)
+
+</div>
 
 ---
 
@@ -62,8 +62,7 @@ const developer = {
 
 Movie/TV streaming platform featuring advanced search capabilities, trailer integration, and real-time data from TMDB API. Complete with responsive design and smooth user experience.
 
-- 🌐 [Live Demo](https://abhivyakti-cinema.vercel.app)
-- 💻 [Source Code](https://github.com/bhupender2/Abhivyakti-Cinema)
+- 🌐 [Live Demo](https://abhivyakti-cinema.vercel.app)   💻 [Source Code](https://github.com/bhupender2/Abhivyakti-Cinema)
 
 ---
 
@@ -72,8 +71,8 @@ Movie/TV streaming platform featuring advanced search capabilities, trailer inte
 
 Travel companion application with interactive maps, city data tracking, and comprehensive travel statistics. Track your adventures across the globe with beautiful visualizations.
 
-- 🌐 [Live Demo](https://world-wise-teal-seven.vercel.app)
-- 💻 [Source Code](https://github.com/bhupender2/WorldWise)
+- 🌐 [Live Demo](https://world-wise-teal-seven.vercel.app) 💻 [Source Code](https://github.com/bhupender2/WorldWise)
+  
 
 ---
 
@@ -82,8 +81,7 @@ Travel companion application with interactive maps, city data tracking, and comp
 
 Full-featured group messaging application with live communication, room management, chat history, and typing indicators. Built for seamless real-time collaboration.
 
-- 🌐 [Live Demo](https://chat-app-five-teal.vercel.app)
-- 💻 [Source Code](https://github.com/bhupender2/chat-app)
+- 🌐 [Live Demo](https://chat-app-five-teal.vercel.app)  💻 [Source Code](https://github.com/bhupender2/chat-app)
 
 ---
 
@@ -92,8 +90,8 @@ Full-featured group messaging application with live communication, room manageme
 
 Netflix-inspired streaming platform with complete authentication system and personalized content recommendations. Features smooth animations and modern UI design.
 
-- 🌐 [Live Demo](https://corn-flix.vercel.app)
-- 💻 [Source Code](https://github.com/bhupender2/CornFlix)
+- 🌐 [Live Demo](https://corn-flix.vercel.app)  💻 [Source Code](https://github.com/bhupender2/CornFlix)
+
 
 ---
 
@@ -104,7 +102,3 @@ Netflix-inspired streaming platform with complete authentication system and pers
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bhupender2&layout=compact&theme=radical&hide_border=true&bg_color=1a1b27&title_color=667EEA&text_color=c9d1d9&langs_count=8)
 
 ---
-
- 
-
- 
