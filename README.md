@@ -1,9 +1,9 @@
 <div align="center" style="font-family: 'Pixelify Sans', cursive;">
 
-# Hi, I'm Bhupender Singh Mehta 👋
-## Full Stack Developer | WebRTC Specialist | Building Real-time Systems
+# 💡 Bhupender Singh Mehta: Architecting the Real-time Web
+## Full Stack Developer | WebRTC & Live Systems Expert
 
-**React • Node.js • WebRTC | Real-time Systems Expert**
+**React • Node.js • WebRTC | Real-time Systems Architect**
 
 </div>
 
@@ -92,12 +92,15 @@ Netflix-inspired streaming platform with complete authentication system and pers
 
 - 🌐 [Live Demo](https://corn-flix.vercel.app)  💻 [Source Code](https://github.com/bhupender2/CornFlix)
 
-
 ---
 ## 📈 GitHub Stats
 
-![Total Commits](https://img.shields.io/badge/Total%20Commits-8000+-667EEA?style=for-the-badge&logo=github&logoColor=white)
+<div align="center">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bhupender2&layout=compact&theme=radical&hide_border=true&bg_color=1a1b27&title_color=667EEA&text_color=c9d1d9&langs_count=8)
+<img src="https://github-readme-stats.vercel.app/api?username=bhupender2&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&bg_color=1a1b27&title_color=667EEA&text_color=c9d1d9&count_private=true" alt="Bhupender's GitHub Stats" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhupender2&layout=compact&theme=radical&hide_border=true&bg_color=1a1b27&title_color=667EEA&text_color=c9d1d9&langs_count=8" alt="Bhupender's Top Languages" />
+
+</div>
 
 ---
