@@ -93,15 +93,4 @@ Netflix-inspired streaming platform with complete authentication system and pers
 
 - 🌐 [Live Demo](https://corn-flix.vercel.app)  💻 [Source Code](https://github.com/bhupender2/CornFlix)
 
----
-## 📈 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=bhupender2&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&bg_color=1a1b27&title_color=667EEA&text_color=c9d1d9&count_private=true" alt="Bhupender's GitHub Stats" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhupender2&layout=compact&theme=radical&hide_border=true&bg_color=1a1b27&title_color=667EEA&text_color=c9d1d9&langs_count=8" alt="Bhupender's Top Languages" />
-
-</div>
-
----
+ 
