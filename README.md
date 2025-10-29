@@ -15,10 +15,10 @@
 
 | Platform | Link |
 |----------|------|
-| 🌐 Portfolio | [Visit Site](https://bhupender-singh.netlify.app) |
-| 📧 Email | [Contact Me](mailto:b.mehtaa2021@gmail.com) |
-| 💼 LinkedIn | [Connect](https://www.linkedin.com/in/bhupender-mehta-661331226) |
-| 𝕏 Twitter | [Follow](https://x.com/Bhupender_Codes) |
+| 🌐 Portfolio | [Visit Site](https://bhupender-singh.netlify.app) | | 📧 Email | [Contact Me](mailto:b.mehtaa2021@gmail.com) | | 💼 LinkedIn | [Connect](https://www.linkedin.com/in/bhupender-mehta-661331226) || 𝕏 Twitter | [Follow](https://x.com/Bhupender_Codes) |
+
+
+
 
 ---
 
