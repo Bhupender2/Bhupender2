@@ -1,6 +1,7 @@
 <div align="center" style="font-family: 'Pixelify Sans', cursive;">
 
-# 💡 Bhupender Singh Mehta: Architecting the Real-time Web
+<img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&size=40&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&width=650&lines=Hi,+I'm+Bhupender+Singh+Mehta;Full+Stack+Developer;WebRTC+Specialist;Building+Real-time+Systems" alt="Typing SVG" />
+
 ## Full Stack Developer | WebRTC & Live Systems Expert
 
 **React • Node.js • WebRTC | Real-time Systems Architect**
