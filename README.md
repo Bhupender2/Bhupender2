@@ -25,7 +25,7 @@
 
 ## 🎯 About Me
 
-\`\`\`javascript
+ 
 const developer = {
   name: "Bhupender Singh Mehta",
   location: "India 🇮🇳",
@@ -35,7 +35,7 @@ const developer = {
   currentlyBuilding: "Scalable Web Applications",
   motto: "Create the future, don't just predict it"
 };
-\`\`\`
+ 
 
 - 🔭 Building real-time applications with modern technologies
 - 💡 Passionate about clean code and scalable architectures
