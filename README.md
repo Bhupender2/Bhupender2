@@ -94,10 +94,9 @@ Netflix-inspired streaming platform with complete authentication system and pers
 
 
 ---
-
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bhupender2&show_icons=true&theme=radical&hide_border=true&bg_color=1a1b27&title_color=667EEA&icon_color=bf91f3&text_color=c9d1d9&count_private=true)
+![Total Commits](https://img.shields.io/badge/Total%20Commits-8000+-667EEA?style=for-the-badge&logo=github&logoColor=white)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bhupender2&layout=compact&theme=radical&hide_border=true&bg_color=1a1b27&title_color=667EEA&text_color=c9d1d9&langs_count=8)
 
