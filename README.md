@@ -15,10 +15,10 @@
 
 | Platform | Link |
 |----------|------|
-| 🌐 Portfolio | [Visit Site](https://bhupender-singh.netlify.app) | | 📧 Email | [Contact Me](mailto:b.mehtaa2021@gmail.com) | | 💼 LinkedIn | [Connect](https://www.linkedin.com/in/bhupender-mehta-661331226) || 𝕏 Twitter | [Follow](https://x.com/Bhupender_Codes) |
-
-
-
+| 🌐 Portfolio | [Visit Site](https://bhupender-singh.netlify.app) |
+| 📧 Email | [Contact Me](mailto:b.mehtaa2021@gmail.com) |
+| 💼 LinkedIn | [Connect](https://www.linkedin.com/in/bhupender-mehta-661331226) |
+| 𝕏 Twitter | [Follow](https://x.com/Bhupender_Codes) |
 
 ---
 
@@ -105,19 +105,6 @@ Netflix-inspired streaming platform with complete authentication system and pers
 
 ---
 
-## 🤝 Let's Connect
+ 
 
-- [LinkedIn](https://www.linkedin.com/in/bhupender-mehta-661331226)
-- [Twitter/X](https://x.com/Bhupender_Codes)
-- [CodePen](https://codepen.io/bhupender2)
-- [Stack Overflow](https://stackoverflow.com/users/20897994/bhupender-singh-mehta)
-
----
-
-<div align="center">
-
-**💡 The best way to predict the future is to create it**
-
-⭐ Star my repositories if you find them useful!
-
-</div>
+ 
